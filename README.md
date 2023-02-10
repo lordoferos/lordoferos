@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**lordoferos/lordoferos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 I'm a data enthusiast with a passion for open source projects and currently based in Kenya. I specialize in using R for data science and dabble in Python. Driven by a love for maps and automation, I'm currently building a dashboard to showcase demographic data in Kenya and creating statistical models to predict fire frequency. Connect with me on Twitter for all things data, mapping and open source!
 
