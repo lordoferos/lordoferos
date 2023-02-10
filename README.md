@@ -8,7 +8,7 @@ I'm a data enthusiast with a passion for open source projects and currently base
 
 ## 👇 &nbsp;Current project
 
-I'm currently working on [Kenya Census](https://github.com/lordoferos/kenya_census). Working on a solution to display key metrics on specific administrative locations in Kenya.
+I'm currently working on [Kenya Census](https://github.com/lordoferos/kenya_census). Working on a dashboard solution to display key metrics on specific administrative locations in Kenya.
 
 &nbsp;
 
