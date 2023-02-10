@@ -15,7 +15,7 @@ I'm currently working on [Kenya Census](https://github.com/lordoferos/kenya_cens
 
 ## 🧰 &nbsp;My toolbox
 
-<img  src="https://github.com/lordoferos/add_logos/blob/master/r_logo.png" alt="R" width="50" height="50"/> &nbsp;<img  src="https://github.com/lordoferos/add_logos/blob/master/rstudio_logo.png" alt="R Studio" width="100" height="50"/> &nbsp;<img  src="https://github.com/lordoferos/add_logos/blob/master/python_logo.png" alt="ExpressJS" width="50" height="50"/> &nbsp; <img  src="https://github.com/lordoferos/add_logos/blob/master/QGIS-Logo.png" alt="QGIS" width="50" height="50" style="margin:0 auto; display:block;"/> 
+<img  src="https://github.com/lordoferos/add_logos/blob/master/r_logo.png" alt="R" width="50" height="50"/> &nbsp;<img  src="https://github.com/lordoferos/add_logos/blob/master/rstudio_logo.png" alt="R Studio" width="100" height="50"/> &nbsp;<img  src="https://github.com/lordoferos/add_logos/blob/master/python_logo.png" alt="Python" width="50" height="50"/> &nbsp; <img  src="https://github.com/lordoferos/add_logos/blob/master/QGIS-Logo.png" alt="QGIS" width="70" height="50" style="margin:0 auto; display:block;"/> 
 
 &nbsp;
 
