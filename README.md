@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 
@@ -29,7 +29,7 @@ I'm currently working on [Kenya Census](https://github.com/lordoferos/kenya_cens
 
 &nbsp;
 
-## 🖥 &nbsp;Publications
+## 📚 &nbsp;Publications
 
 - Obwocha, E. B., Ramisch, J. J., Duguma, L., & **Orero, L**. (2022). [The Relationship between Climate Change, Variability, and Food Security: Understanding the Impacts and Building Resilient Food Systems in West Pokot County, Kenya](https://www.mdpi.com/2071-1050/14/2/765). Sustainability, 14(2), 765.
 - Fuchs, L. E., **Orero, L**., Namoi, N., & Neufeldt, H. (2019). [How to effectively enhance sustainable livelihoods in smallholder systems: A comparative study from Western Kenya](https://www.mdpi.com/2071-1050/11/6/1564). Sustainability, 11(6), 1564.
