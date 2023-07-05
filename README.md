@@ -25,6 +25,7 @@ I'm currently working on [Kenya Census](https://github.com/lordoferos/kenya_cens
 
 ## 🖥 &nbsp;Past work
 
+- [Fire Frequency Modelling](https://github.com/lordoferos/python-tweet-bot)
 - [Python tweeting bot](https://github.com/lordoferos/python-tweet-bot)
 - [Post rank simulator](https://github.com/lordoferos/rank_simulator)
 - [Tidy Tuesday Week 32](https://github.com/lordoferos/tidy_tuesday32)
