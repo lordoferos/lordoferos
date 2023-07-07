@@ -19,6 +19,7 @@ I'm currently working on [Kenya Census](https://github.com/lordoferos/kenya_cens
 <img  src="https://github.com/lordoferos/hhh/blob/main/rstudio_logo.png" alt="R Studio" width="120" height="50"/> &nbsp;
 <img  src="https://github.com/lordoferos/hhh/blob/main/python_logo.png" alt="Python" width="50" height="50"/> &nbsp; 
 <img  src= "https://github.com/lordoferos/hhh/blob/main/jup.jpeg" alt = "Jupyter" width = "50" height = "50"/> &nbsp;
+<img  src= "https://github.com/lordoferos/hhh/blob/main/colab.jpeg" alt = "Colab" width = "50" height = "50"/> &nbsp;
 <img  src="https://github.com/lordoferos/hhh/blob/main/QGIS-Logo.png" alt="QGIS" width="70" height="50" style="margin:0 auto; display:block;"/> 
 
 &nbsp;
