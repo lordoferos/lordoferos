@@ -2,7 +2,7 @@
 
 
 
-I'm a data enthusiast with a passion for open source projects and currently based in Kenya. I specialize in using R for data science and dabble in Python. I worked as a data analyst in projects on [asset based community-driven development](https://www.cifor-icraf.org/abcd/), [agroecological transformation](https://www.cgiar.org/initiative/agroecology/) and developing [holistic metrics in agroecology](https://www.cgiar.org/news-events/news/the-measure-of-agroecology/). Driven by a love for maps and automation. Connect with me on Twitter for all things data, mapping and open source!
+I'm a data enthusiast with a passion for open source projects. I specialize in using R for data science and dabble in Python. I worked as a data analyst in projects on [asset based community-driven development](https://www.cifor-icraf.org/abcd/), [agroecological transformation](https://www.cgiar.org/initiative/agroecology/) and developing [holistic metrics in agroecology](https://www.cgiar.org/news-events/news/the-measure-of-agroecology/). Driven by a love for maps and automation. Connect with me on Twitter for all things data, mapping and open source!
 
 &nbsp;
 
