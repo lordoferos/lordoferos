@@ -39,7 +39,7 @@ I'm currently working on [Kenya Census](https://github.com/lordoferos/kenya_cens
 
 1.	Orero, L., Fuchs, L.E., Kipkorir, L., Apondi, V., van Dien, L.C. Giving smallholder farmers back the power over their data: Lessons from western Kenya. [submitted for publication]
 2.	Orero, L., Omondi, O. E., Omolo, O. B., (2024). A Bayesian model for predicting monthly fire frequency in Kenya. PLOS One 
-3.	Lamanna, C., Coe, R., Crossland, M., Fuchs, L.E., Barahona, C., Chiputwa, B., Orero, L., Adoyo, B. and Geck, M., 2024. Developing holistic assessments of food and agricultural systems.
+3.	Lamanna, C., Coe, R., Crossland, M., Fuchs, L.E., Barahona, C., Chiputwa, B., Orero, L., Adoyo, B. and Geck, M., 2024. Developing holistic assessments of food and agricultural systems. https://www.cifor-icraf.org/publications/pdf_files/WPapers/TPP-WP-4.pdf
 4.	Nyawira, S., Bolo, P., Ntinyari, W., Orero, L., Onyango, K., Manjella, A., ... & Fuchs, L. E. (2023). Kenya Context Assessment Report: A desk-top review of the context of agroecological principles of Kiambu and Makueni counties.
 5.	Fuchs, L.E., Korir, H., Adoyo, B., Bolo, P., Kuria, A., Sakha, M., Gumo, P., Mbelwa, M., Syano, N., Kiruthi, E. and Levi, O., 2023. Co-designing on-farm innovations in the Agroecological Living Landscapes (ALLs) in Kenya.
 6.	Obwocha, E. B., Ramisch, J. J., Duguma, L., & Orero, L. (2022). The Relationship between Climate Change, Variability, and Food Security: Understanding the Impacts and Building Resilient Food Systems in West Pokot County, Kenya. Sustainability, 14(2), 765. https://www.mdpi.com/2071-1050/14/2/765/pdf
@@ -51,6 +51,13 @@ https://www.sciencedirect.com/science/article/pii/S2452292921000801
 11.	Kamwilu, E., Duguma, L. A., & Orero, L. (2021). The Potentials and Challenges of Achieving Sustainability through Charcoal Producer Associations in Kenya: A Missed Opportunity? Sustainability, 13(4), 2288. https://www.mdpi.com/2071-1050/13/4/2288/pdf
 12.	Fuchs, L. E., Orero, L., Namoi, N., & Neufeldt, H. (2019). How to Effectively Enhance Sustainable Livelihoods in Smallholder Systems: A Comparative Study from Western Kenya. Sustainability, 11(6), 1564. https://www.mdpi.com/2071-1050/11/6/1564
 13.	Cunningham, G., Fuchs, LE, Orero, L, Apondi, VA, Kipkorir, L. The Integrated Household Leaky Bucket. Building financial and economic literacy by doing: A simple guide to help smallholder farmers separate their farm and household revenues and expenses. Coady Innovation Series, (14), 2018, https://coady.stfx.ca/wp-content/uploads/2018/12/IS14.pdf
+14.	World Economic Forum & NTT DATA. (2024). Scaling technology adoption for soil health: A focus on Africa. https://www3.weforum.org/docs/WEF_Scaling_Technology_Adoption_for_Soil_Health_2024.pdf
+15.	World Economic Forum. (2024). Food and Water Systems in the Intelligent Age. https://www.weforum.org/publications/food-and-water-systems-in-the-intelligent-age/
+16.	World Economic Forum & Boston Consulting Group. (2024). Mainstreaming Food Innovation: A Roadmap for Stakeholders. In White Paper. https://www.weforum.org/publications/mainstreaming-food-innovation-a-roadmap-for-stakeholders/
+17.	Fuchs, L. E., Orero, L., Kipkorir, L. A., Apondi, V., & Owili, S. O. (2024). Scaling models for Regreening Africa: enhancing agroecological integration through smallholders’ assets and agency in Kenya. Frontiers in Sustainable Food Systems, 8, 1449615.
+
+
+
 
 
 
