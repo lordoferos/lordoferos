@@ -55,6 +55,10 @@ https://www.sciencedirect.com/science/article/pii/S2452292921000801
 15.	World Economic Forum. (2024). Food and Water Systems in the Intelligent Age. https://www.weforum.org/publications/food-and-water-systems-in-the-intelligent-age/
 16.	World Economic Forum & Boston Consulting Group. (2024). Mainstreaming Food Innovation: A Roadmap for Stakeholders. In White Paper. https://www.weforum.org/publications/mainstreaming-food-innovation-a-roadmap-for-stakeholders/
 17.	Fuchs, L. E., Orero, L., Kipkorir, L. A., Apondi, V., & Owili, S. O. (2024). Scaling models for Regreening Africa: enhancing agroecological integration through smallholders’ assets and agency in Kenya. Frontiers in Sustainable Food Systems, 8, 1449615.
+18.	Bartoli, C., Annosi, M. C., Orero, L., & Brunetta, F. (2025). Crowdfunding for sustainability: Key elements driving crowdfunding success across economic, social, and environmental goals. Finance Research Letters, 107400.
+19.	World Economic Forum & NTT DATA. (2025). Data and digital readiness for food systems.
+20.	Bartoli, C., Orero, L., Brunetta, F. (2026). The Role of Blockchain Technology in Agrifood Systems. In: Sarkis, J. (eds) The Palgrave Handbook of Blockchain Technology for Business. Palgrave Macmillan, Cham. https://doi.org/10.1007/978-3-031-76014-3_10-1
+
 
 
 
